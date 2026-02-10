@@ -1,6 +1,5 @@
 body {
- /* background-color: rgb(219, 192, 154);*/
-     
+ /* background-color: rgb(219, 192, 154);*/     
   
 }
 video-container {
@@ -25,25 +24,25 @@ video {
   z-index: -1; /* Places the video behind other elements */
 }
 
-
-
-
 h1 {
   text-transform: uppercase;
   font-size: 3rem;
   font-weight: bold;
  text-align: center;
+ text-color: white;
   
 }
 h2 {
   font-size: 2rem;
   margin-top: -10px;
   text-align: center;
+ text-color: white;
 }
 h3 {
   font-size: 1.5rem;
   margin-top: -10px;
   text-align: center;
+ text-color: white;
 }
 
 .poster {
@@ -58,6 +57,7 @@ h3 {
   border: 15px solid rgb(112, 16, 48);
   width: 100%;
   }
+
 
 
 
