@@ -37,13 +37,15 @@ h2 {
  color: white;
   font-size: 2rem;
   margin-top: -10px;
+ font-weight: bold;
   text-align: center;
   
 }
 h3 {
   color: white;
-  font-size: 1.5rem;
+  font-size: 2rem;
   margin-top: -10px;
+ font-weight: bold;
   text-align: center;  
 }
 
@@ -51,14 +53,18 @@ h3 {
   width: 50%;
   margin-left: 25%;
   margin-top: 100px;
-  color: white;
+  color: whitesmoke;
   font-family: "Libre Baskerville", serif;
+  text-align: center;
+    color: red;
+    font-weight: bolder;
   }
 
 .motivation-img {
   border: 15px solid rgb(112, 16, 48);
   width: 100%;
   }
+
 
 
 
