@@ -26,7 +26,7 @@ video {
 
 h1 {
   color: white;
-  text-transform: uppercase;
+  text-transform: Capitalize;
   font-size: 3rem;
   font-weight: bold;
  text-align: center;
@@ -64,6 +64,7 @@ h3 {
   border: 15px solid rgb(112, 16, 48);
   width: 100%;
   }
+
 
 
 
